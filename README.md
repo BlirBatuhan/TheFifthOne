@@ -19,7 +19,7 @@ Projede amaç, oyuncuların aynı sahnede network üzerinden etkileşimde bulunm
 ## 📦 İçerik
 - Derlenmiş sürümler ve zip dosyaları için: Releases  kısmında indirebilirsiniz
 ---
-## ODAYI KURUP BEKLEME ODDASINA GEÇTİKTEN SONRA 'L' TUŞUNA BASIP OYUNU BAŞLATABİLİRSİNİZ.
+## ODAYI KURUP BEKLEME ODASINA GEÇTİKTEN SONRA 'L' TUŞUNA BASIP OYUNU BAŞLATABİLİRSİNİZ.
 ## 🖼️ Oyun İçi Görseller
 
 ![Oyun Ekran Görüntüsü 1](oyuniçi_görseller/1.png)  
